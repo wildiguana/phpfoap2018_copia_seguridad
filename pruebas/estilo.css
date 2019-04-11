@@ -1,0 +1,9 @@
+h1 {
+	text-decoration-color: grey;
+}
+p {
+	text-decoration-color: red;
+}
+table, th, td {
+	border:1px solid black;
+}
