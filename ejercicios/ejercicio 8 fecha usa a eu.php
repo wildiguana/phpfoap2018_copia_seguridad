@@ -10,7 +10,25 @@
 <p> pasar fecha en formato EEUU a EU y viceversa</p>
     <?php 
     function conversorFecha($datos, $region){
-        $datos = explode ("/", $datos);
+        if ($region=="EU"){
+            $datos = explode ("-", $datos);
+            if (count ($valores))
+        }
+        
+        
+            && $region =="EU"); {
+
+            }
+        }
+        
+            $newDate = $valores[1].'/'.$valores[0].'/'.$valores [2];
+
+        }elseif (count ($valores) == 3
+                && checkdate ($valores[0], $valores[1], $valores[2])
+                && $region == "EEUU"){
+                    $newDate = $valores[1].'/'.$valores[0].'/'.$valores
+                }
+
         
         
 
