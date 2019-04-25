@@ -9,7 +9,7 @@
 <p> <h1>Ejemplo 2:</h1></p>
 <p>formulario</p>
     <?php
-        $edad=$_post['edad'];
+        $edad=$_POST['edad'];
         print ("La edad es: $edad");
     ?>
 </body>
