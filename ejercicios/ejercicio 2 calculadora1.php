@@ -13,7 +13,7 @@
         numero 1:<input type="text" name="num1">
         numero 2:<input type="text" name="num2">
 
-            <input type="submit" name="enviar" value="enviar">
+            <input type="submit" name="resultado" value="resultado">
     </form>
 
 <?php
