@@ -11,6 +11,8 @@
 
 <form method="post">
         numero 1:<input type="text" name="num1">
+        numero 1:<input type="text" name="num1">
+
             <input type="submit" name="enviar" value="enviar">
     </form>
 
