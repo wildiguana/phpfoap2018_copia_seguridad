@@ -18,6 +18,12 @@
 
 <?php
 
+function suma ($x, $y){
+   $x=num1;
+    $y=num2;
+    $z=suma($x, $y);
+    print $z;
+
 
   ?>
   </body>
