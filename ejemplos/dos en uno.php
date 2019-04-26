@@ -15,7 +15,7 @@
     <?php
         if (isset($_post ['submit']));
 
-        //}else{     
+        //}else{      
          $edad=$_POST['edad'];
          print ("La edad es: $edad");
         
