@@ -13,7 +13,7 @@ $idioma= "es"; //variable que decide el idioma de la pagina
 $mensaje= "mensaje_" . $idioma;
 print $$mensaje; //lo equivalente a print $mensaje_es
 ?>
-• El resultado del código anterior será “Hola”
+• El resultado del código anterior será “Hola  a”
 
 
 </body>
